@@ -1,0 +1,17 @@
+Background color: darkblue
+
+Title:
+ - h1 heading with white color text
+ - design: Big text and centered
+
+Input text
+ - placeholder "search for a city" and a submit button
+
+weather 'boxes'
+ - boxes with the city, degrees in Celsius, SVG icon showing the weather and the description
+
+ Footer:
+ - Signature from the developer
+
+ MVC - Model View Controller
+ - Model: Dado cru
